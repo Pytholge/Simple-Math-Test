@@ -20,13 +20,13 @@ Anything higher than 3 will result in an error message saying, "Invalid type. Pl
 
 The console will then ask you "What is the first number"?
 
-_Put any number you like.
+Put any number you like.
 
 The number you pick will be assigned to int firstNum.
 
 The console will then ask you "What is the second number"?
 
-_Again, put any number you like.
+Again, put any number you like.
 
 This number will be assigned to int secondNum.
 
